@@ -14,6 +14,7 @@
 		17C606CC28BA235A00987B7E /* LibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C606CB28BA235A00987B7E /* LibraryView.swift */; };
 		17C606CE28BA253D00987B7E /* NavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C606CD28BA253D00987B7E /* NavigationView.swift */; };
 		17C606D028BA270100987B7E /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C606CF28BA270100987B7E /* TabBar.swift */; };
+		17C606D228BA280F00987B7E /* MiniPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C606D128BA280F00987B7E /* MiniPlayer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		17C606CB28BA235A00987B7E /* LibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryView.swift; sourceTree = "<group>"; };
 		17C606CD28BA253D00987B7E /* NavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationView.swift; sourceTree = "<group>"; };
 		17C606CF28BA270100987B7E /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		17C606D128BA280F00987B7E /* MiniPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniPlayer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				17C606BF28BA224B00987B7E /* ContentView.swift */,
 				17C606CB28BA235A00987B7E /* LibraryView.swift */,
 				17C606CD28BA253D00987B7E /* NavigationView.swift */,
+				17C606D128BA280F00987B7E /* MiniPlayer.swift */,
 				17C606CF28BA270100987B7E /* TabBar.swift */,
 				17C606C128BA224D00987B7E /* Assets.xcassets */,
 				17C606C328BA224D00987B7E /* Preview Content */,
@@ -149,6 +152,7 @@
 				17C606C028BA224B00987B7E /* ContentView.swift in Sources */,
 				17C606CC28BA235A00987B7E /* LibraryView.swift in Sources */,
 				17C606CE28BA253D00987B7E /* NavigationView.swift in Sources */,
+				17C606D228BA280F00987B7E /* MiniPlayer.swift in Sources */,
 				17C606BE28BA224B00987B7E /* Home_Work_17_Apple_MusicApp.swift in Sources */,
 				17C606D028BA270100987B7E /* TabBar.swift in Sources */,
 			);
