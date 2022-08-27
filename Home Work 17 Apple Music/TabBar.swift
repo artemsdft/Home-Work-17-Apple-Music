@@ -13,7 +13,7 @@ struct TabBar: View {
     var body: some View {
         ZStack(alignment: Alignment(horizontal: .center, vertical: .bottom)) {
             TabView(selection: $current) {
-                Nav()
+                Navigation()
                     .tag(0)
                     .tabItem {
                         Image(systemName: "music.note.list")

@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct NavigationView: View {
+struct Navigation: View {
     @State var isEditMode: EditMode = .active
     @State var selectionScreen = true
     var body: some View {
@@ -39,6 +39,6 @@ struct NavigationView: View {
 
 struct NavigationView_Previews: PreviewProvider {
     static var previews: some View {
-        NavigationView()
+        Navigation()
     }
 }
