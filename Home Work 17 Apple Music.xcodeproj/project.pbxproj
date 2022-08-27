@@ -11,6 +11,7 @@
 		17C606C028BA224B00987B7E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C606BF28BA224B00987B7E /* ContentView.swift */; };
 		17C606C228BA224D00987B7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17C606C128BA224D00987B7E /* Assets.xcassets */; };
 		17C606C528BA224D00987B7E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17C606C428BA224D00987B7E /* Preview Assets.xcassets */; };
+		17C606CC28BA235A00987B7E /* LibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C606CB28BA235A00987B7E /* LibraryView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		17C606BF28BA224B00987B7E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		17C606C128BA224D00987B7E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		17C606C428BA224D00987B7E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		17C606CB28BA235A00987B7E /* LibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				17C606BD28BA224B00987B7E /* Home_Work_17_Apple_MusicApp.swift */,
 				17C606BF28BA224B00987B7E /* ContentView.swift */,
+				17C606CB28BA235A00987B7E /* LibraryView.swift */,
 				17C606C128BA224D00987B7E /* Assets.xcassets */,
 				17C606C328BA224D00987B7E /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				17C606C028BA224B00987B7E /* ContentView.swift in Sources */,
+				17C606CC28BA235A00987B7E /* LibraryView.swift in Sources */,
 				17C606BE28BA224B00987B7E /* Home_Work_17_Apple_MusicApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
