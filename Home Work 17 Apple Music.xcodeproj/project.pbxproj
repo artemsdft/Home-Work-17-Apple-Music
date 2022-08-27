@@ -13,6 +13,7 @@
 		17C606C528BA224D00987B7E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17C606C428BA224D00987B7E /* Preview Assets.xcassets */; };
 		17C606CC28BA235A00987B7E /* LibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C606CB28BA235A00987B7E /* LibraryView.swift */; };
 		17C606CE28BA253D00987B7E /* NavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C606CD28BA253D00987B7E /* NavigationView.swift */; };
+		17C606D028BA270100987B7E /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C606CF28BA270100987B7E /* TabBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		17C606C428BA224D00987B7E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		17C606CB28BA235A00987B7E /* LibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryView.swift; sourceTree = "<group>"; };
 		17C606CD28BA253D00987B7E /* NavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationView.swift; sourceTree = "<group>"; };
+		17C606CF28BA270100987B7E /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				17C606BF28BA224B00987B7E /* ContentView.swift */,
 				17C606CB28BA235A00987B7E /* LibraryView.swift */,
 				17C606CD28BA253D00987B7E /* NavigationView.swift */,
+				17C606CF28BA270100987B7E /* TabBar.swift */,
 				17C606C128BA224D00987B7E /* Assets.xcassets */,
 				17C606C328BA224D00987B7E /* Preview Content */,
 			);
@@ -147,6 +150,7 @@
 				17C606CC28BA235A00987B7E /* LibraryView.swift in Sources */,
 				17C606CE28BA253D00987B7E /* NavigationView.swift in Sources */,
 				17C606BE28BA224B00987B7E /* Home_Work_17_Apple_MusicApp.swift in Sources */,
+				17C606D028BA270100987B7E /* TabBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
